@@ -1,0 +1,25 @@
+p#banner{
+    width: 100%;
+    text-align: center;
+}
+p#historia{
+    width: 100%;
+    text-align: center;
+}
+#joinha{
+  margin: auto;
+  width: 80vw;
+}
+#outrosa{
+    width: 50%;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    color: #ED258F;
+    width: 100vw;
+    font-size: 200%;
+}
+hr{
+    color: #ED258F;
+}
